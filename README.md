@@ -9,10 +9,10 @@ The app provides ATS scoring, keyword suggestions, AI improvements, and PDF expo
 # 🌐 Live Demo
 
 Frontend:  
-https://your-frontend-link.vercel.app
+https://ai-resume-builder-omega-six.vercel.app/
 
 Backend API:  
-https://your-backend-link.onrender.com
+https://ai-resume-builder-backend-ammj.onrender.com/
 
 ---
 
