@@ -17,7 +17,7 @@ app.use(cors({
   origin: [
     "http://localhost:5173",
     "https://ai-resume-builder-omega-six.vercel.app",
-    "https://ai-resume-builder-7928gmlyo-divyansh15322s-projects.vercel.app"
+    "https://ai-resume-builder-oxstx8ww3-divyansh15322s-projects.vercel.app"
   ],
   methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
   allowedHeaders: ["Content-Type", "Authorization"],
