@@ -12,12 +12,12 @@ connectDB();
 const app = express();
 
 // Middleware
-const cors = require("cors");
 
 app.use(cors({
   origin: [
     "http://localhost:5173",
-    "https://ai-resume-builder-omega-six.vercel.app"
+    "https://ai-resume-builder-omega-six.vercel.app",
+    "https://ai-resume-builder-7928gmlyo-divyansh153225-projects.vercel.app"
   ],
   credentials: true
 }));
